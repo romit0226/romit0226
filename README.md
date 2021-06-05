@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Javascript based projects**
 
-- 💬 Ask me about **HTML5 ,CSS3,Bootstrap 4,Javascript(ES6), Jquery**
+- 💬 Ask me about **React.js,HTML5 ,CSS3,Bootstrap 4,Javascript(ES6), Jquery**
 
 - 📫 How to reach me **romitburi5@gmail.com**
 
