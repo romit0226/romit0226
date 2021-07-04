@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! 👋, I'm Romit Choudhary</h1>
-<h3 align="center">A ME undergraduate student from NIT Srinagar, an aspiring Full stack developer . Currently working on Front-end Development . I’m passionate about learning new technologies.</h3>
+<h3 align="center">A ME undergraduating student from NIT Srinagar, an aspiring Full stack developer . Currently working on Front-end Development . I’m passionate about learning new technologies.</h3>
 
 
 
