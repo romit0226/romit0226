@@ -15,16 +15,15 @@
 
 
  <h3 align="left"> Programming handles :</h3>
- ![Leetcode Stats](https://leetcard.jacoblin.cool/romitburi5?theme=unicorn)
-![Leetcode Stats](https://leetcard.jacoblin.cool/romitburi5?theme=light,unicorn)
-
   <a href="https://www.hackerrank.com/romit0226" target="blank"><img align="center"   src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/768px-HackerRank_logo.png alt="romit-choudhary-810794165" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/romit0226" target="blank"><img align="center"  src=https://lh3.googleusercontent.com/xM-xpo2304QX11xputm_cILYJCBshgGgYtVEP7q5HS9NFXNvQo6-BJHmi2lzEXC8dStqHHHn0TMT197IJJJ7St4bitI=s1080 alt="romit-choudhary-810794165" height="35" width="35" /></a>
  <a href="https://www.hackerearth.com/@romit14" target="blank"><img align="center"   src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/220px-HackerEarth_logo.png alt="romit-choudhary-810794165" height="35" width="35" /></a>
  <a href="https://leetcode.com/romitburi5/" target="blank"><img align="center"   src=https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png alt="romit-choudhary-810794165" height="35" width="35" /></a>
  
 
-
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/romitburi5?ext=activity) -->
+![](https://leetcard.jacoblin.cool/romitburi5?theme=unicorn)
+<!-- ![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn) -->
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/romit-choudhary-810794165/" target="blank"><img align="center"  src="https://img.icons8.com/dusk/64/000000/linkedin.png" alt="romit-choudhary-810794165" height="40" width="40" /></a>
