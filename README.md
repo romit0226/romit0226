@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! 👋, I'm Romit Choudhary</h1>
-<h3 align="center">A ME undergraduating student from NIT Srinagar, an aspiring Full stack developer . Currently working on Front-end Development . I’m passionate about learning new technologies.</h3>
+<h3 align="center">Hey there! I’m a passionate Spring Boot developer with 2 years of hands-on experience in building robust and scalable applications. My journey in the software world has been an exciting ride, and I thrive on solving complex problems and creating elegant solutions.</h3>
 
 
 
@@ -12,7 +12,16 @@
 - 💬 Ask me about **React native,React Js ,HTML5 ,CSS3,Bootstrap 4,Javascript(ES6), Jquery**
 
 - 📫 How to reach me **romitburi5@gmail.com** -->
+🚀 Tech Stack
 
+- Spring Boot: My bread and butter! I’ve worked extensively with Spring Boot to develop RESTful APIs, microservices, and web applications. Whether it’s setting up the project, configuring dependencies, or writing clean code, I’m your go-to Spring enthusiast.
+
+- Kafka: Ah, the magic of event-driven architecture! I’ve harnessed Kafka’s power to build real-time data pipelines, handle asynchronous communication, and ensure seamless integration between services. Producers, consumers, topics—I’ve got it covered.
+
+- AWS: The cloud is my playground! I’ve explored Amazon Web Services (AWS) and know my way around EC2, S3, Lambda, and more. From deploying applications to optimizing infrastructure, I’m all about efficiency in the cloud.
+📚 Continuous Learning
+
+I believe in staying curious. Whether it’s attending tech meetups, reading blogs, or diving into documentation, I’m always expanding my knowledge. Learning never stops, right?
 
  <h3 align="left"> Programming handles :</h3>
   <a href="https://www.hackerrank.com/romit0226" target="blank"><img align="center"   src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/768px-HackerRank_logo.png alt="romit-choudhary-810794165" height="40" width="40" /></a>
