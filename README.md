@@ -5,13 +5,13 @@
 
 <!--- 🔭 I’m currently working on [](https://github.com/naina25/SimonGame)-->
 
-- 🌱 I’m currently learning **React.js,** **React Native**
+<!---  - 🌱 I’m currently learning **React.js,** **React Native**
 
 - 👯 I’m looking to collaborate on **Javascript based projects**
 
 - 💬 Ask me about **React native,React Js ,HTML5 ,CSS3,Bootstrap 4,Javascript(ES6), Jquery**
 
-- 📫 How to reach me **romitburi5@gmail.com**
+- 📫 How to reach me **romitburi5@gmail.com** -->
 
 
  <h3 align="left"> Programming handles :</h3>
