@@ -5,7 +5,7 @@
 <div style="width:90%; max-width:950px; margin:auto; padding:30px 0;">
 
   <h1 align="center">Hi There! 👋, I'm Romit Choudhary</h1>
-<h3 align="center">Hey there! I’m a passionate Spring Boot developer with 2 years of hands-on experience in building robust and scalable applications. My journey in the software world has been an exciting ride, and I thrive on solving complex problems and creating elegant solutions.</h3>
+<h3 align="center">Hey there! I’m a passionate Spring Boot developer with 3+ years of hands-on experience in building robust and scalable applications. My journey in the software world has been an exciting ride, and I thrive on solving complex problems and creating elegant solutions.</h3>
 
   <!-- TECH STACK -->
   <div style="background:rgba(255,255,255,0.08); padding:20px; margin-top:30px; border-radius:14px; backdrop-filter:blur(5px); box-shadow:0 4px 20px rgba(0,0,0,0.2);">
